@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Stella Ray</h1>
 <h3 align="center">Full-Stack Web2 & Web3 Developer, Automation Expert, specializing in scalable web apps, automation workflows, smart contracts, and Telegram bots</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=435&lines=Full-Stack+Web2+%26+Web3+Developer+%7C+Scalable%2C+high-performance+apps.;Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps.;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms.;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeByStella&label=Profile%20views&color=0e75b6&style=flat" alt="CodeByStella" /> </p>
 
