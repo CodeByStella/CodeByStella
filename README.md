@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeByStella&label=Profile%20views&color=0e75b6&style=flat" alt="CodeByStella" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeByStella" alt="CodeByStella" /></a> </p>
+<p align="left"> <img src="https://github-trophies.vercel.app/?username=CodeByStella" alt="CodeByStella" /> </p>
 
 - 🔭 I’m currently working on [ZkBusiness.org](https://zkbusiness.org/)
 
