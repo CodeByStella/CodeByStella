@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full-Stack+Web2+%26+Web3+Developer+%7C+Scalable%2C+high-performance+apps.;Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps.;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms.;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions." alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeByStella&label=Profile%20views&color=0e75b6&style=flat" alt="CodeByStella" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeByStella&label=Profile%20views&color=0e75b6&style=flat" alt="CodeByStella" /> </p>
 
 <p align="left"> <img src="https://github-trophies.vercel.app/?username=CodeByStella" alt="CodeByStella" /> </p>
 
