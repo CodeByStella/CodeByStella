@@ -1,30 +1,25 @@
 <h1 align="center">Hello 👋, I'm Stella Ray</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full-Stack+Web2+%26+Web3+Developer+%7C+Scalable%2C+high-performance+apps.;Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps.;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms.;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions." alt="Typing SVG" />
-
 <p align="center">
-    <img align="left" src="https://komarev.com/ghpvc/?username=CodeByStella&label=Profile%20views&color=0e75b6&style=flat" alt="CodeByStella" />
-    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full-Stack+Web2+%26+Web3+Developer+%7C+Scalable%2C+high-performance+apps.;Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps.;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms.;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions." alt="Typing SVG" />
+</p>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=CodeByStella&label=Profile%20views&color=0e75b6&style=flat" alt="CodeByStella" />
+</p>
+<p align="center">  
     <img src="https://github-trophies.vercel.app/?username=CodeByStella" alt="CodeByStella" />
 </p>
 
-- 🔭 I’m currently working on [ZkBusiness.org](https://zkbusiness.org/)
-
-- 🌱 I’m currently learning **Merkle proofs, advanced smart contract security, and gas optimizations**
-
-- 🤝 I’m looking to collaborate on [Web3 projects, Telegram Mini Apps, and automation solutions](https://t.me/StellaShowcase)
-
-- 🆘 I’m looking for help with [Expanding my Telegram developer community](https://t.me/DevCollab)
-
-- 📂 All of my projects are available at [https://t.me/StellaShowcase](https://t.me/StellaShowcase)
-
-- 💬 Ask me about **MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots**
-
-- 📮 How to reach me **okovtun747@gmail.com**
-
-- ⚡ Fun fact **I automate things just to avoid doing them manually once. 😄**
-
-
+<p align="left">
+    - 🔭 I’m currently working on <a href="https://zkbusiness.org/">ZkBusiness.org</a><br/>
+    - 🌱 I’m currently learning <b>Merkle proofs, advanced smart contract security, and gas optimizations</b><br/>
+    - 🤝 I’m looking to collaborate on <a href="https://t.me/StellaShowcase">Web3 projects, Telegram Mini Apps, and automation solutions</a><br/>
+    - 🆘 I’m looking for help with <a href="https://t.me/DevCollab">Expanding my Telegram developer community</a><br/>
+    - 📂 All of my projects are available at <a href="https://t.me/StellaShowcase">https://t.me/StellaShowcase</a><br/>
+    - 💬 Ask me about <b>MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots</b><br/>
+    - 📮 How to reach me <b>okovtun747@gmail.com</b><br/>
+    - ⚡ Fun fact <b>I automate things just to avoid doing them manually once. 😄</b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -91,9 +86,14 @@
     </tr>
 </table>
 
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeByStella&show_icons=true&locale=en&layout=compact" alt="CodeByStella" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeByStella&show_icons=true&locale=en&layout=compact" alt="CodeByStella" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&locale=en" alt="CodeByStella" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&locale=en" alt="CodeByStella" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&" alt="CodeByStella" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&" alt="CodeByStella" />
+</p>
