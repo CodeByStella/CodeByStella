@@ -195,8 +195,8 @@
 
 
 <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&locale=en" alt="CodeByStella" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&" alt="CodeByStella" />
+    <img  height="176" src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&locale=en" alt="CodeByStella" />
+    <img  height="176" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&" alt="CodeByStella" />
 </p>
 
 
