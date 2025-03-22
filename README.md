@@ -85,9 +85,6 @@
     </tr>
 </table>
 
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeByStella&show_icons=true&locale=en&layout=compact" alt="CodeByStella" />
-</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&locale=en" alt="CodeByStella" />
