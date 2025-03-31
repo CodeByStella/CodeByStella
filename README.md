@@ -11,13 +11,13 @@
 </p>
 
 <p align="left">
-    - 🔭 I’m currently working on <a href="https://zkbusiness.org/">ZkBusiness.org</a><br/>
-    - 🌱 I’m currently learning <b>Merkle proofs, advanced smart contract security, and gas optimizations</b><br/>
-    - 🤝 I’m looking to collaborate on <a href="https://t.me/StellaShowcase">Web3 projects, Telegram Mini Apps, and automation solutions</a><br/>
-    - 🆘 I’m looking for help with <a href="https://t.me/DevCollab">Expanding my Telegram developer community</a><br/>
-    - 📂 All of my projects are available at <a href="https://t.me/StellaShowcase">https://t.me/StellaShowcase</a><br/>
-    - 💬 Ask me about <b>MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots</b><br/>
-    - 📮 How to reach me <b>okovtun747@gmail.com</b><br/>
+<!--     - 🔭 I’m currently working on <a href="https://zkbusiness.org/">ZkBusiness.org</a><br/> -->
+    - 🌱 I’m currently learning <b>Merkle proofs, advanced smart contract security, and gas optimizations</b>.<br/>
+    - 🤝 I’m looking to collaborate on <a href="https://t.me/StellaShowcase">Web3 projects, Telegram Mini Apps, and automation solutions</a>.<br/>
+    - 🆘 I’m looking for help with <a href="https://t.me/DevCollab">Expanding my developer community on Telegram</a>.<br/>
+    - 📂 All of my projects are available at <a href="https://t.me/StellaShowcase">https://t.me/StellaShowcase</a>.<br/>
+    - 💬 Ask me about <b>MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots</b>.<br/>
+    - 📮 Reach me at <b>okovtun747@gmail.com</b><br/>
     - ⚡ Fun fact <b>I automate things just to avoid doing them manually once. 😄</b>
 </p>
 <h3 align="left">Languages and Tools:</h3>
