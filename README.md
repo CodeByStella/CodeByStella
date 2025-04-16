@@ -201,3 +201,6 @@
     <img  height="156" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&theme=react" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
+</p>
