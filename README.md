@@ -20,7 +20,7 @@
     - 🆘 I’m looking for help with <a href="https://t.me/DevCollab">Expanding my developer community on Telegram</a>.<br/>
     - 📂 All of my projects are available at <a href="https://t.me/StellaShowcase">@StellaShowcase</a>.<br/>
     - 💬 Ask me about <b>MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots</b>.<br/>
-    - 📮 Reach me at <b>softvisionary.dev@gmail.com</b> or <a href="https://t.me/StellaRay777">@StellaRay777</a><br/>
+    - 📮 Reach me at <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a><br/>
     - ⚡ Fun fact <b>I automate things just to avoid doing them manually once. 😄</b>
 </p>
 <h3 align="left">Languages and Tools:</h3>
