@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-<p align="left" style="width:860px">
+<p align="left" style="width:740px">
   &nbsp;<img src="./emojis/seed.gif" width="22" valign="middle" alt="seed" /> <b>I’m currently learning</b> Merkle proofs, advanced smart contract security, and gas optimizations.<br/>
   &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" /> <b>I’m looking to collaborate on</b> Web3 projects, Telegram Mini Apps, and automation solutions.<br/>
   &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" /> <b>I’m looking for help with</b> <a href="https://t.me/DevCollab">Expanding my developer community on Telegram</a>.<br/>
@@ -23,9 +23,9 @@
 </p>
 </div>
 <div align="center">
-<h3 align="left" style="width: 860px">Languages and Tools:</h3>
+<h3 align="left" style="width: 740px">Languages and Tools:</h3>
 </div>
-<table align="center" width="860">
+<table align="center" width="740">
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React
@@ -107,14 +107,14 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="860" alt="@CodeByStella's github-readme-streak-stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="740" alt="@CodeByStella's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
-    <img  height="156" src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img  height="156" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&theme=react" alt="GitHub Streak" />
+    <img  height="150" src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img  height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&theme=react" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-     <img width="860" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
+     <img width="740" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
 </p>
