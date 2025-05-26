@@ -105,8 +105,8 @@
 </p>
 
 <p align="center">
-  <img width="49%" align="left" height="154" src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%"  align="right" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&theme=react" alt="GitHub Streak" />
+  <img  align="left" height="154" src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img   align="right" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&theme=react" alt="GitHub Streak" />
 </p>
 
 <p align="center">
