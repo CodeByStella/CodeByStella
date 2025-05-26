@@ -20,7 +20,8 @@
   <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a><br/>
   &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" /> <b>Fun fact:</b> I automate things just to avoid doing them manually once.
 </p>
-<table align="center" width="100%" style="width:100%;"> <tr>
+<table align="center" style="width:100%;">
+  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React
     </td>
@@ -105,8 +106,8 @@
 </p>
 
 <p align="center">
-  <img  align="left" height="154" src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img   align="right" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&theme=react" alt="GitHub Streak" />
+  <img width="49%" height="154" src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&theme=react" alt="GitHub Streak" />
 </p>
 
 <p align="center">
