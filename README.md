@@ -20,7 +20,6 @@
   <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a><br/>
   &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" /> <b>Fun fact:</b> I automate things just to avoid doing them manually once.
 </p>
-<h3 align="left">Languages and Tools:</h3>
 <table align="center" width="100%">
   <tr>
     <td align="center" width="90">
