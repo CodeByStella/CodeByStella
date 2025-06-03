@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full-Stack+Web2+%26+Web3+Developer+%7C+Scalable%2C+high-performance+apps.;Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps.;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms.;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions." alt="Typing SVG" />
 </p>
 <p align="center">  
-    <img src="https://github-trophies.vercel.app/?username=CodeByStella" alt="CodeByStella" />
+    <a href="https://github.com/CodeByStella?tab=achievements"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"  width="96%" alt="CodeByStella"/></a>
 </p>
 
 <ul align="left">
@@ -117,7 +117,7 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@CodeByStella's github-readme-streak-stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="100%" alt="@CodeByStella's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
