@@ -117,7 +117,7 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="100%" alt="@CodeByStella's github-readme-streak-stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@CodeByStella's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
