@@ -121,8 +121,8 @@
 </p>
 
 <p align="center">
-  <img width="49%" height="154" src="https://github-readme-stats.vercel.app/api?username=CodeByStella&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByStella&theme=react" alt="GitHub Streak" />
+ <a href="https://github.com/CodeByStella?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="48%" alt="GitHub Stats"/></a>
+ <a href="https://github.com/CodeByStella?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeByStella&theme=gotham&hide_border=true"  width="48%" alt="GitHub Streak"/></a>
 </p>
 
 <p align="center">
