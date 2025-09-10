@@ -116,9 +116,18 @@
   </tr>
 </table>
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@CodeByStella's github-readme-streak-stats"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" align="center" valign="middle">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days" width="100%" alt="@CodeByStella's github-readme-streak-stats"/>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://roadmap.sh/card/wide/683ed4b3308e90f4466a5fb9?variant=dark&roadmaps=%2Cfull-stack%2Cblockchain%2Cai-agents">
+        <img src="https://roadmap.sh/card/wide/683ed4b3308e90f4466a5fb9?variant=dark&roadmaps=%2Cfull-stack%2Cblockchain%2Cai-agents" width="100%" alt="roadmap.sh"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
  <a href="https://github.com/CodeByStella?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="49%" alt="GitHub Stats"/></a>
