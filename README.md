@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions" alt="Typing SVG" />
 </p>
 <p align="center">  
-    <a href="https://github.com/CodeByStella?tab=achievements"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt="CodeByStella"/></a>
+    <a href="https://github.com/bast-top-dev?tab=achievements"><img src="https://github-trophies.vercel.app/?username=bast-top-dev&theme=onestar&no-frame=true&column=6&row=2"   alt="CodeByStella"/></a>
 </p>
 
 <ul align="left">
@@ -19,16 +19,16 @@
     &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>I’m looking to collaborate on</b> Web3 projects, Telegram Mini Apps, and automation solutions.
   </li>
   <li>
-    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>I’m looking for help with</b> <a href="https://t.me/DevCollab">Expanding my developer community on Telegram</a>.
+    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>I’m looking for help with</b> <a href="https://t.me/codeConjurer01">Expanding my developer community on Telegram</a>.
   </li>
   <li>
-    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>All of my projects are available at</b> <a href="https://t.me/StellaShowcase">@StellaShowcase</a>.
+    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>All of my projects are available at</b> <a href="https://t.me/codeConjurer01">@codeConjurer01</a>.
   </li>
   <li>
     <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots.
   </li>
   <li>
-    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a>
+    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:w.s.top.prof@gmail.com">w.s.top.prof@gmail.com</a> or <a href="https://t.me/codeConjurer01">@codeConjurer01</a>
   </li>
   <li>
     &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> I automate things just to avoid doing them manually once.
@@ -120,12 +120,12 @@
     <a href="https://roadmap.sh/u/stellaray777">
     <img src="https://roadmap.sh/card/tall/683ed4b3308e90f4466a5fb9?variant=dark&refresh=3" width="20.6%" alt="roadmap.sh"/>
     </a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="77%" alt="@CodeByStella's github-readme-streak-stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="77%" alt="@bast-top-dev's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
  <a href="https://github.com/CodeByStella?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="49%" alt="GitHub Stats"/></a>
- <a href="https://github.com/CodeByStella?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeByStella&theme=gotham&hide_border=true"  width="49%" alt="GitHub Streak"/></a>
+ <a href="https://github.com/CodeByStella?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=bast-top-dev&theme=gotham&hide_border=true"  width="49%" alt="GitHub Streak"/></a>
 </p>
 
 <p align="center">
