@@ -124,8 +124,8 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/CodeByStella?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="49%" alt="GitHub Stats"/></a>
- <a href="https://github.com/CodeByStella?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeByStella&theme=gotham&hide_border=true"  width="49%" alt="GitHub Streak"/></a>
+ <a href="https://github.com/CodeByStella?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="57%" alt="GitHub Stats"/></a>
+ <a href="https://github.com/CodeByStella?tab=stars"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByStella&theme=gotham&hide_border=true&layout=compact&langs_count=6"  width="41%" alt="GitHub Streak"/></a>
 </p>
 
 <p align="center">
