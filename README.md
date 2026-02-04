@@ -118,14 +118,14 @@
 
 <p align="center">
     <a href="https://roadmap.sh/u/stellaray777">
-    <img src="https://roadmap.sh/card/tall/683ed4b3308e90f4466a5fb9?variant=dark&refresh=6" width="20.6%" alt="roadmap.sh"/>
+    <img src="https://roadmap.sh/card/tall/683ed4b3308e90f4466a5fb9?variant=dark&refresh=6" width="22.7%" alt="roadmap.sh"/>
     </a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="77%" alt="@CodeByStella's github-readme-streak-stats"/>
+     <a href="https://github.com/CodeByStella?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="75.3%" alt="GitHub Stats"/></a>
 </p>
 
 <p align="center">
- <a href="https://github.com/CodeByStella?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="60%" alt="GitHub Stats"/></a>
- <a href="https://github.com/CodeByStella?tab=stars"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByStella&theme=gotham&hide_border=true&layout=compact&langs_count=8"  width="37.5%" alt="GitHub Streak"/></a>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByStella&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@CodeByStella's github-readme-streak-stats"/>
+ <!-- <a href="https://github.com/CodeByStella?tab=stars"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByStella&theme=gotham&hide_border=true&layout=compact&langs_count=8"  width="37.5%" alt="GitHub Streak"/></a> -->
 </p>
 
 <p align="center">
