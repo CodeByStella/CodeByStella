@@ -118,9 +118,9 @@
 
 <p align="center">
     <a href="https://roadmap.sh/u/stellaray777">
-    <img src="https://roadmap.sh/card/tall/683ed4b3308e90f4466a5fb9?variant=dark&refresh=6" width="22.7%" alt="roadmap.sh"/>
+    <img src="https://roadmap.sh/card/wide/683ed4b3308e90f4466a5fb9?variant=dark&roadmaps=" width="49.8%"  alt="roadmap.sh"/>
     </a>
-     <a href="https://github.com/CodeByStella?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="75.3%" alt="GitHub Stats"/></a>
+     <a href="https://github.com/CodeByStella?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="48.2%" alt="GitHub Stats"/></a>
 </p>
 
 <p align="center">
