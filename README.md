@@ -2,7 +2,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=CodeByStella&label=👁️&color=0e75b6&style=flat" alt="CodeByStella" />
 </div>
 
-<h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my corner of GitHub.</h1>
+<h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my corner of github.</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=LLMs+%26+Gen+AI+%7C+RAG%2C+agents+%26+reasoning;ML+Ops+%26+ML+Systems+%7C+Training%2C+deploy+%26+scale;Python+%26+full-stack+%7C+Ship+AI+from+research+to+production" alt="Typing SVG" />
