@@ -33,6 +33,9 @@
   <li>
     &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> Be rude to my chatbot and it starts answering like tech support from 2003.
   </li>
+  <li>
+    <img src="./emojis/heart.gif" width="30" valign="middle" alt="folder" /> <b>Support me:</b> star <a href="https://github.com/CodeByStella/CodeByStella">this repo</a>, donate on <a href="https://nowpayments.io/donation/stellaray777" target="_blank" rel="noreferrer noopener">NOWPayments</a>.
+  </li>
 </ul>
 
 <table align="center">
