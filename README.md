@@ -19,7 +19,7 @@
     &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>Open to collaborate on</b> AI products that ship, open-source ML, and LLM/agent apps. Hard problems, clear scope, real impact.
   </li>
   <li>
-    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>Would love help building</b> the <a href="https://t.me/DevCollab">DevCollab</a> community on Telegram and <a href="https://discord.gg/RJ3sx2dM8X">AI Craft</a> on Discord.
+    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>Would love help building</b> the <img src="./emojis/discord.gif" width="20" valign="middle" alt="discord" /><a href="https://t.me/DevCollab">DevCollab</a> community on Telegram and <img src="./emojis/telegram.gif" width="20" valign="middle" alt="telegram" /><a href="https://discord.gg/RJ3sx2dM8X">AI Craft</a> on Discord.
   </li>
   <li>
     <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>Most of my work lives at</b> <a href="https://t.me/StellaShowcase">@StellaShowcase</a>. Side projects and experiments included.
