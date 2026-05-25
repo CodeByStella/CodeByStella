@@ -90,5 +90,6 @@
 </p>
 
 <p align="center">
-     <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" />
 </p>
+
