@@ -1,8 +1,18 @@
-<div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=CodeByStella&label=👁️&color=0e75b6&style=flat" alt="CodeByStella" />
-</div>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=240&section=header&text=Stella%20Ray&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Open%20Source%20Builder%20•%20Founder%20of%20AI%20Agent%20Hub%20X&descAlignY=58&descAlign=50" />
+</p>
 
-<h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my corner of github.</h1>
+<p align="center">
+    <a href="https://github.com/CodeByStella?tab=followers">
+        <img src="https://img.shields.io/github/followers/CodeByStella?style=for-the-badge&color=2563EB&logo=github" />
+    </a>
+    <a href="https://github.com/CodeByStella?tab=repositories">
+        <img src="https://img.shields.io/github/stars/CodeByStella?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&logo=github" />
+    </a>
+    <a href="https://github.com/CodeByStella">
+         <img src="https://komarev.com/ghpvc/?username=CodeByStella&label=Profile+Views&color=2563EB&style=for-the-badge" />
+    </a>
+</p>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=LLMs+%26+Gen+AI+%7C+RAG%2C+agents+%26+reasoning;ML+Ops+%26+ML+Systems+%7C+Training%2C+deploy+%26+scale;Python+%26+full-stack+%7C+Ship+AI+from+research+to+production" alt="Typing SVG" />
