@@ -12,6 +12,9 @@
     <a href="https://github.com/CodeByStella">
          <img src="https://komarev.com/ghpvc/?username=CodeByStella&label=Profile+Views&color=2563EB&style=for-the-badge" />
     </a>
+    <a href="https://nowpayments.io/donation/stellaray777">
+        <img src="https://img.shields.io/badge/Support-NOWPayments-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+    </a>
 </p>
 
 <p align="center">
