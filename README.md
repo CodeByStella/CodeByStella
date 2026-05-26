@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=240&section=header&text=Stella%20Ray&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Open%20Source%20Builder%20•%20Founder%20of%20AI%20Agent%20Hub%20X&descAlignY=58&descAlign=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=240&section=header&text=Stella%20Ray&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Open%20Source%20Builder%20•%20Founder%20of%20AI%20Agent%20Hub%20X&descAlignY=58&descAlign=50" width="98%" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">  
-    <a href="https://github.com/CodeByStella?tab=achievements"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt="CodeByStella"/></a>
+    <a href="https://github.com/CodeByStella?tab=achievements"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2" width="98%" alt="CodeByStella"/></a>
 </p>
 
 <ul align="left">
@@ -90,6 +90,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="98%" />
 </p>
 
