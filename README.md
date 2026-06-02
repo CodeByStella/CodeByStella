@@ -41,7 +41,7 @@
     <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a>. I reply.
   </li>
   <li>
-    &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> Be rude to my chatbot and it starts answering like tech support from 2003.
+    &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> My chatbot really hates being insulted.
   </li>
   <li>
     <img src="./emojis/heart.gif" width="30" valign="middle" alt="folder" /> <b>Support me:</b> star <a href="https://github.com/CodeByStella/CodeByStella">this repo</a>, donate on <a href="https://nowpayments.io/donation/stellaray777" target="_blank" rel="noreferrer noopener">NOWPayments</a>.
