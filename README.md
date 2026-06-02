@@ -23,19 +23,19 @@
 
 <ul align="left">
   <li>
-    &nbsp;<img src="./emojis/seed.gif" width="22" valign="middle" alt="seed" />&nbsp;&nbsp;<b>Digging deeper into</b> efficient fine-tuning (LoRA, QLoRA), fast inference (vLLM), and agentic systems.
+    &nbsp;<img src="./emojis/seed.gif" width="22" valign="middle" alt="seed" />&nbsp;&nbsp;<b>Researching</b> security challenges in AI agents and autonomous systems.
   </li>
   <li>
-    &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>Open to collaborate on</b> AI products that ship, open-source ML, and LLM/agent apps. Hard problems, clear scope, real impact.
+    &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>Open to collaborate on</b> AI products, open-source ML, and agent applications with real impact.
   </li>
   <li>
-    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>Would love help building</b> the <img src="./emojis/telegram.gif" width="20" valign="middle" alt="telegram" /><a href="https://t.me/+d7wGp8c1q2QwNzM8">DevCollab</a> community on Telegram.
+    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>Would love help growing</b> the <img src="./emojis/telegram.gif" width="20" valign="middle" alt="telegram" /><a href="https://t.me/+d7wGp8c1q2QwNzM8">DevCollab</a> community on Telegram.
   </li>
   <li>
     <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>Most of my work lives at</b> <a href="https://t.me/StellaShowcase">@StellaShowcase</a>. Side projects and experiments included.
   </li>
   <li>
-    <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> Python, PyTorch, LLMs, RAG, agents, MLOps. Notebook to production, done right.
+    <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> AI, Python, LLMs, and agent systems.
   </li>
   <li>
     <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a>. I reply.
